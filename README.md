@@ -19,7 +19,6 @@
 - Develop **financial and accounting software** for businesses
 - Build **management and inventory systems** to optimize operations
 - Create **modern Persian UI libraries** and **open-source tools** for developers
-- Support **cross-platform** development with a focus on usability and efficiency
 
 ---
 
