@@ -7,7 +7,6 @@
 
 ![Free](https://img.shields.io/badge/Free-Yes-4B0082?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-4169E1?style=for-the-badge&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-6A5ACD?style=for-the-badge&logoColor=white)
 
 </div>
 
